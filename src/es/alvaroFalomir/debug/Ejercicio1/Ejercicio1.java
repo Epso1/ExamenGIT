@@ -27,7 +27,7 @@ import java.util.Scanner;
 1
  */
 public class Ejercicio1 {
-
+//comentarios nuevos
     public static void main(String[] args) {
         // TODO Auto-generated method stub
         int num;
